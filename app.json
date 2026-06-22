@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "flappy-bird-remake-with-pipes-mqplj85t",
+    "slug": "flappy-bird-remake-with-pipes-mqplj85t",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#0f1419"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.mypip.flappybirdremakewithpipesmqplj85t"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0f1419"
+      },
+      "package": "com.mypip.flappybirdremakewithpipesmqplj85t"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
